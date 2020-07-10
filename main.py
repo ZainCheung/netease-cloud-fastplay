@@ -138,7 +138,7 @@ class mainWin(ui.MainFrame):
             self.Tipmsgbox('API格式不正确,应该以"https://"或者"http://"开头')
 
         if not re.match(com_id, id):
-            self.Tipmsgbox('歌单id格式不正确,应为10位数字,请前往网易云网站查看歌单ID')
+            self.Tipmsgbox('歌单id格式不正确,请前往网易云网站查看歌单ID')
         else:
             state_id = True
 
