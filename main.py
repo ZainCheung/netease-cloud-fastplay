@@ -112,7 +112,7 @@ class mainWin(ui.MainFrame):
         com_phone = r'[1]+[\d]{10}$'
         com_email = r'^[a-zA-Z0-9_-]+(\.[a-zA-Z0-9_-]+){0,4}@[a-zA-Z0-9_-]+(\.[a-zA-Z0-9_-]+){0,4}$'
         com_password = r'[abcdef\d]{32}$'
-        com_id = r'[\d]{10}$'
+        com_id = r'[\d]{4,12}$'
         com_time = r'[\d]{1,5}$'
 
         if(account == ''):
