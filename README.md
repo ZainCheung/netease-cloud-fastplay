@@ -1,6 +1,6 @@
 # 网易云音乐个性化纠正工具
 
-简单来说就是可以快速增加指定歌曲的播放次数。
+快速刷单曲播放次数，完整文档见：https://zaincheung.github.io/netease-cloud
 
 <p align="center">
     <a href="https://github.com/ZainCheung"><img alt="Author" src="https://img.shields.io/badge/author-ZainCheung-blueviolet"/></a>
