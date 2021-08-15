@@ -52,7 +52,7 @@
 
 # 下载地址
 
-软件地址：[https://zaincheung.lanzous.com/i9HD9ehj29g](https://zaincheung.lanzous.com/i9HD9ehj29g)
+软件地址：[https://zaincheung.lanzoui.com/i9HD9ehj29g](https://zaincheung.lanzoui.com/i9HD9ehj29g)
 
 软件项目地址：[https://github.com/ZainCheung/netease-cloud-fastplay](https://github.com/ZainCheung/netease-cloud-fastplay)
 
